@@ -2,6 +2,10 @@
 
 Private manuscript repository for the noir procedural novel: The Invisible Boy.
 
+---
+
+# Repository Contents
+
 This repository contains:
 
 - manuscript chapters
@@ -30,7 +34,7 @@ Locked canon materials including:
 ## 02_MANUSCRIPT
 All active, reconciliation, and locked manuscript chapters.
 
-Subfolders:
+### Subfolders
 - WORKING_CHATGPT
 - WORKING_CLAUDE
 - RECONCILIATION
@@ -71,7 +75,7 @@ Active drafting, revisions, and reconciliation work.
 
 # Critical Rules
 
-- GitHub is the source of truth.
+- GitHub is the repository source of truth.
 - Use fictional names only.
 - No automated system may silently alter literary canon.
 - Scripts are advisory systems, not creative authorities.
@@ -84,6 +88,7 @@ Active drafting, revisions, and reconciliation work.
 # Manuscript Status
 
 Current repository status:
+
 - Prologue completed
 - Chapters 1–8 drafted/revised/verified in varying stages
 - Repository reconciliation in progress
