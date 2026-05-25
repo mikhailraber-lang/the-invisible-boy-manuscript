@@ -7,10 +7,10 @@ This folder contains all manuscript materials for The Invisible Boy.
 # Manuscript Workflow Structure
 
 ## WORKING_CHATGPT
-Active drafting and revision work produced through ChatGPT collaboration.
+Active drafting, revision, and prose development work produced through ChatGPT collaboration.
 
 ## WORKING_CLAUDE
-Structural, continuity, and reconciliation work produced through Claude collaboration.
+Structural, continuity, verification-preparation, and reconciliation work produced through Claude collaboration.
 
 ## RECONCILIATION
 Comparison, merge, and canon reconciliation materials between competing manuscript versions.
@@ -48,4 +48,24 @@ Verification does NOT replace:
 
 Git history serves as the authoritative revision record.
 
-Final creative authority belongs to Misha.
+---
+
+# Automation Boundaries
+
+Verification systems may assist:
+- continuity review
+- terminology enforcement
+- timeline validation
+- structural comparison
+
+Verification systems may NOT:
+- rewrite prose automatically
+- alter pacing automatically
+- replace literary judgment
+- override emotional authenticity
+
+---
+
+# Authority
+
+Final creative and canon authority belongs to Misha.
