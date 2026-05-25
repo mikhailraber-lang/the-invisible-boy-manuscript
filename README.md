@@ -41,7 +41,7 @@ All active, reconciliation, and locked manuscript chapters.
 - LOCKED
 
 ## 03_VERIFICATION
-Verification reports, validation scripts, audit systems, and analysis tools.
+Verification reports, validation scripts, audit systems, implementation tracking, and analysis tools.
 
 ## 04_REFERENCE
 Prompt systems, methodologies, noir guardrails, workflow references, and creative frameworks.
@@ -69,7 +69,7 @@ Historical exports, retired versions, deprecated materials, and protocol debt no
 Locked and verified material only.
 
 ## working
-Active drafting, revisions, and reconciliation work.
+Active drafting, revisions, reconciliation work, and structural development.
 
 ---
 
@@ -79,9 +79,25 @@ Active drafting, revisions, and reconciliation work.
 - Use fictional names only.
 - No automated system may silently alter literary canon.
 - Scripts are advisory systems, not creative authorities.
-- Humans evaluate prose, pacing, emotion, subtext, and literary quality.
+- Humans evaluate prose, pacing, emotion, subtext, noir authenticity, and literary quality.
 - Mechanical consistency may be automated.
 - Verification supports storytelling — it does not replace storytelling.
+
+---
+
+# Automation Philosophy
+
+Verification systems may assist:
+- continuity validation
+- terminology enforcement
+- timeline analysis
+- structural comparison
+
+Verification systems may NOT:
+- rewrite prose automatically
+- alter pacing automatically
+- override emotional authenticity
+- replace human literary judgment
 
 ---
 
