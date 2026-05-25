@@ -1,9 +1,9 @@
 # The Invisible Boy
 
-Private manuscript repository for the noir procedural novel:
-**The Invisible Boy**
+Private manuscript repository for the noir procedural novel: The Invisible Boy.
 
 This repository contains:
+
 - manuscript chapters
 - canon rules
 - character profiles
@@ -21,23 +21,29 @@ This repository contains:
 Core operational and governance documents.
 
 ## 01_CANON
-Locked canon materials:
+Locked canon materials including:
 - character profiles
 - timeline
 - canon rules
 - master cheat sheets
 
 ## 02_MANUSCRIPT
-All active and locked manuscript chapters.
+All active, reconciliation, and locked manuscript chapters.
+
+Subfolders:
+- WORKING_CHATGPT
+- WORKING_CLAUDE
+- RECONCILIATION
+- LOCKED
 
 ## 03_VERIFICATION
-Verification reports, validation scripts, and analysis tools.
+Verification reports, validation scripts, audit systems, and analysis tools.
 
 ## 04_REFERENCE
-Prompt systems, methodologies, noir guardrails, and creative frameworks.
+Prompt systems, methodologies, noir guardrails, workflow references, and creative frameworks.
 
 ## 05_ARCHIVE
-Historical exports, old versions, retired material, and protocol debt notes.
+Historical exports, retired versions, deprecated materials, and protocol debt notes.
 
 ---
 
@@ -59,7 +65,7 @@ Historical exports, old versions, retired material, and protocol debt notes.
 Locked and verified material only.
 
 ## working
-Active drafting and revisions.
+Active drafting, revisions, and reconciliation work.
 
 ---
 
@@ -68,13 +74,29 @@ Active drafting and revisions.
 - GitHub is the source of truth.
 - Use fictional names only.
 - No automated system may silently alter literary canon.
-- Scripts are advisory tools, not creative authorities.
-- Humans evaluate prose, pacing, emotion, and literary quality.
+- Scripts are advisory systems, not creative authorities.
+- Humans evaluate prose, pacing, emotion, subtext, and literary quality.
+- Mechanical consistency may be automated.
 - Verification supports storytelling — it does not replace storytelling.
+
+---
+
+# Manuscript Status
+
+Current repository status:
+- Prologue completed
+- Chapters 1–8 drafted/revised/verified in varying stages
+- Repository reconciliation in progress
+- Canon locking workflow active
 
 ---
 
 # Authority
 
-Final creative and canon authority:
-Misha
+Final creative and canon authority: Misha.
+
+---
+
+# Project Type
+
+This repository contains fictional literary material only.
