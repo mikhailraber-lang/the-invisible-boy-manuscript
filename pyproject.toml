@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invisible-boy-manuscript"
+version = "0.1.0"
+description = "Private manuscript, canon, prompts, and verification workflow for The Invisible Boy with Modulatio integration"
+requires-python = ">=3.12"
+authors = [
+    {name = "mikhailraber-lang", email = ""}
+]
+dependencies = [
+    "modulatio>=0.8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "black>=23.0",
+    "ruff>=0.1.0",
+    "mypy>=1.0",
+]
+
+[tool.setuptools]
+packages = ["src/invisible_boy"]
+
+[tool.black]
+line-length = 100
+target-version = ["py312"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
